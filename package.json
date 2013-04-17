@@ -1,0 +1,22 @@
+{
+  "name": "azure-queue",
+  "version": "0.0.0",
+  "description": "adapts an event based non-polling listener for azure storage queues",
+  "main": "queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "azure": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/tacowan/azure-queue"
+  },
+  "keywords": [
+    "azure",
+    "queue"
+  ],
+  "author": "Taylor Cowan",
+  "license": "BSD"
+}
